@@ -2,6 +2,10 @@
 
 Parse short human duration strings into milliseconds with structured tokens and diagnostics.
 
+## Demo
+
+[Try the interactive demo](https://packages.wasta-wocket.fr/human-duration-parse-kit/)
+
 ## Install
 
 ```bash
