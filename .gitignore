@@ -4,3 +4,4 @@ dist/
 .npm-cache/
 coverage/
 .DS_Store
+.deploy_key_*
