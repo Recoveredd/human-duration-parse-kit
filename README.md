@@ -80,6 +80,12 @@ It does not read the current date, schedule timers, or handle locale-specific gr
 
 The core uses only strings, numbers, arrays, objects, and regular expressions. It has no runtime dependencies and no required Node APIs.
 
+## CLI
+
+No CLI is included. The natural use is as an embeddable parser for forms,
+configuration screens, import tools, and small command-line apps that already
+have their own input/output flow.
+
 ## License
 
 MPL-2.0
