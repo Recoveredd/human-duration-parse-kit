@@ -2,6 +2,16 @@
   "name": "human-duration-parse-kit",
   "version": "0.1.0",
   "description": "Parse short human duration strings with structured tokens and diagnostics.",
+  "keywords": [
+    "duration",
+    "time",
+    "parser",
+    "milliseconds",
+    "human-readable",
+    "typescript",
+    "browser",
+    "developer-tools"
+  ],
   "type": "module",
   "sideEffects": false,
   "license": "MPL-2.0",
